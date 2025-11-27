@@ -6,21 +6,11 @@
 -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rohxn-o&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bajudev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}@setof\mathbb{R}\end{bmatrix}" 
-       alt="[@setofR]" 
-       width="300" 
-   />
-</p>
+this is super outdated
 
-<!--
-<p align="center">
-  <img src="assets/welcome.png" alt="welcome to my page!" style="max-width: 100%; height: auto;" />
-</p>
--->
 ## Projects
 
 - [ ] StarGuard
@@ -28,8 +18,8 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=setofr&theme=graywhite&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="rohxn-o's GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=setofr&theme=default&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=bajudev&theme=graywhite&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="rohxn-o's GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajudev&theme=default&hide_border=true" alt="GitHub Streak" />
 
 ## Work Environments
 
