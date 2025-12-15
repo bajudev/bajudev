@@ -5,11 +5,7 @@
 </table>
 -->
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=bajudev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<img src="./assets/banner.png" alt="Welcome banner">
+![Banner](./assets/banner.png)
 
 ## Projects
 
