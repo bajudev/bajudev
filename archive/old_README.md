@@ -1,4 +1,21 @@
+<!--
+<table align="right">
+ <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README.md"><img src="./assets/gb_flag.png" alt="UK flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> Gujarati</a></td></tr>
+</table>
+-->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=bajudev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <img src="./assets/banner.png" alt="Welcome banner">
+
+## Projects
+
+- [ ] StarGuard
+- [ ] Study App
+- [x] ~~Website~~
 
 ## Stats
 
