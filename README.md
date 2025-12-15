@@ -9,12 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=bajudev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-this is super outdated
-
 ## Projects
 
 - [ ] StarGuard
-- [x] ~~Website~~ (for now)
+- [ ] Study App
+- [x] ~~Website~~
 
 ## Stats
 
