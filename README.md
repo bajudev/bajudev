@@ -19,8 +19,8 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bajudev&theme=graywhite&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajudev&theme=default&hide_border=true" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=bajudev&theme=nord&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bajudev&theme=nord&hide_border=true" alt="streak" />
 
 ## Work Environments
 
