@@ -19,7 +19,7 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bajudev&theme=nord&show_icons=true&hide_border=true&count_private=true&hide=stars" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bajudev&show_icons=true&hide_border=true&count_private=true&bg_color=718895&text_color=000000&include_all_commits=true&hide=stars" alt="Stats" />
 
 ## Work Environments
 
