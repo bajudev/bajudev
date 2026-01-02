@@ -3,7 +3,6 @@
 </div>
 
 <p>
-  <img align="left" width="300" src="https://i.imgur.com/placeholder.png" />
   <div align="center">
     <br>
     18 ∿ full-time student ∿ he/him<br><br>
