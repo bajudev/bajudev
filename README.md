@@ -16,7 +16,7 @@
 <div align="center">
   <br>
       <a href="https://discord.com/users/261208333279690752">discord</a> · 
-      <a href="">website</a>
+      <a href="https://baju.dev">website</a>
   <br><br><br>
 
   ───── λ ─────
