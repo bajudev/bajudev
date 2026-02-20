@@ -5,7 +5,7 @@
 <p>
   <div align="center">
     <br>
-    18 ∿ full-time student ∿ he/him<br><br>
+    18 ∿ full-time student ∿ learning<br><br>
     <br>
     <img src="https://readme-stats-eight-ruddy.vercel.app/api?username=bajudev&show_icons=true&hide_border=true&count_private=true&hide_title=true&title_color=b1d6ea&text_color=000000&icon_color=b1d6ea&bg_color=718895&card_width=495&hide=stars" alt="stats" />
     <br>
